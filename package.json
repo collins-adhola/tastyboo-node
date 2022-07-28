@@ -1,0 +1,18 @@
+{
+  "name": "tastyboo_node",
+  "version": "1.0.0",
+  "description": "tastyboo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tastyboo",
+    "beverages"
+  ],
+  "author": "collins adhola",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}

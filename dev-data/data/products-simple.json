@@ -1,0 +1,222 @@
+[
+  {
+    "id": 0,
+    "name": "Beetroot",
+    "summary": "Rich and complex, this juice is a treat for beetroot lovers. Fresh organic orange and crisp apple perfectly offset the earthiness and make this cold-pressed, ruby beauty a great source of Vitamin C to fill you with vim and vigour.Vitamin C also assists with the important work of the immune system, as well as contributing to the reduction of tiredness and fatigue.This juice is unpasteurised.",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "Producer": "Tasty Boo is fast becoming an expert in the Uganda on all things juicing. They don’t call us Juiceman for nothing after all. We offer you a range of spectacularly wholesome organic juices and nuts; cold pressed to preserve the best of the top notch ingredients and bottled by in Nakawa.",
+    "Ingredients": "Beetroot (60%)*, Orange (20%)*, Beetroot(20%). While we do everything we can to ensure the information on this page is correct, ingredients, nutritional and dietary information are subject to change. So along with the information on our website, we always recommend that you read each label carefully before enjoying your items",
+    "Nutrition Information per 100g/ml": {
+      "Energy (kJ)": 146,
+      "Energy (kcal)": 34,
+      "Protein (g)": 0.5,
+      "Carbohydrate (g)": 8.7,
+      "of which sugars (g)": 8.7,
+      "Fat (g)": 0.0,
+      "of which saturates (g)": 0.0,
+      " Salt (g)": 0.1
+    },
+
+    "price": 1500,
+    "Storage and Preparation": "Keep refrigerated. Once opened consume within 24 hours. Shake before use",
+
+    "imageCover": "tour-1-cover.jpg",
+    "images": ["tour-1-1.jpg", "tour-1-2.jpg", "tour-1-3.jpg"]
+  },
+
+  {
+    "id": 1,
+    "name": "Cocktail",
+    "summary": "Refreshing and reinvigorating, Juiceman’s Glow is an oasis of cold-pressed fruit, veg and spice. They really pack in the organic carrot, orange, lime, ginger and turmeric, making each one high in Vitamin C and A, as well as one of your five a day.Vitamin A contributes to the maintenance of the skin, as well as the normal function of immune system and vision.Vitamin C also assists with the important work of the immune system, as well as contributing to the reduction of tiredness and fatigue.",
+
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "Producer": "Tasty Boo is fast becoming an expert in the Uganda on all things juicing. They don’t call us Juiceman for nothing after all. We offer you a range of spectacularly wholesome organic juices and nuts; cold pressed to preserve the best of the top notch ingredients and bottled by in Nakawa.",
+    "Ingredients": "Carrot (63%), Orange (33%), Lime (3%), Ginger (1%), Turmeric (trace %). Produced to organic standards.While we do everything we can to ensure the information on this page is correct, ingredients, nutritional and dietary information are subject to change. So along with the information on our website, we always recommend that you read each label carefully before enjoying your items.",
+    "Nutrition Information per 100g/ml": {
+      "Energy (kJ)": 146,
+      "Energy (kcal)": 34,
+      "Protein (g)": 0.5,
+      "Carbohydrate (g)": 8.7,
+      "of which sugars (g)": 8.7,
+      "Fat (g)": 0.0,
+      "of which saturates (g)": 0.0,
+      " Salt (g)": 0.1
+    },
+
+    "price": 1500,
+    "Storage and Preparation": "Keep refrigerated. Once opened consume within 24 hours. Shake before use",
+
+    "imageCover": "tour-1-cover.jpg",
+    "images": ["tour-1-1.jpg", "tour-1-2.jpg", "tour-1-3.jpg"]
+  },
+
+  {
+    "id": 2,
+    "name": "Fresh Juice",
+    "summary": "Rich and complex, this juice is a treat for beetroot lovers. Fresh organic orange and crisp apple perfectly offset the earthiness and make this cold-pressed, ruby beauty a great source of Vitamin C to fill you with vim and vigour.Vitamin C also assists with the important work of the immune system, as well as contributing to the reduction of tiredness and fatigue.This juice is unpasteurised.",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "Producer": "Tasty Boo is fast becoming an expert in the Uganda on all things juicing. They don’t call us Juiceman for nothing after all. We offer you a range of spectacularly wholesome organic juices and nuts; cold pressed to preserve the best of the top notch ingredients and bottled by in Nakawa.",
+    "Ingredients": "Beetroot (60%)*, Orange (20%)*, Beetroot(20%). While we do everything we can to ensure the information on this page is correct, ingredients, nutritional and dietary information are subject to change. So along with the information on our website, we always recommend that you read each label carefully before enjoying your items",
+    "Nutrition Information per 100g/ml": {
+      "Energy (kJ)": 146,
+      "Energy (kcal)": 34,
+      "Protein (g)": 0.5,
+      "Carbohydrate (g)": 8.7,
+      "of which sugars (g)": 8.7,
+      "Fat (g)": 0.0,
+      "of which saturates (g)": 0.0,
+      " Salt (g)": 0.1
+    },
+
+    "price": 1500,
+    "Storage and Preparation": "Keep refrigerated. Once opened consume within 24 hours. Shake before use",
+
+    "imageCover": "tour-1-cover.jpg",
+    "images": ["tour-1-1.jpg", "tour-1-2.jpg", "tour-1-3.jpg"]
+  },
+
+  {
+    "id": 3,
+    "name": "Fresh beetroot",
+    "summary": "Rich and complex, this juice is a treat for beetroot lovers. Fresh organic orange and crisp apple perfectly offset the earthiness and make this cold-pressed, ruby beauty a great source of Vitamin C to fill you with vim and vigour.Vitamin C also assists with the important work of the immune system, as well as contributing to the reduction of tiredness and fatigue.This juice is unpasteurised.",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "Producer": "Tasty Boo is fast becoming an expert in the Uganda on all things juicing. They don’t call us Juiceman for nothing after all. We offer you a range of spectacularly wholesome organic juices and nuts; cold pressed to preserve the best of the top notch ingredients and bottled by in Nakawa.",
+    "Ingredients": "Beetroot (60%)*, Orange (20%)*, Beetroot(20%). While we do everything we can to ensure the information on this page is correct, ingredients, nutritional and dietary information are subject to change. So along with the information on our website, we always recommend that you read each label carefully before enjoying your items",
+    "Nutrition Information per 100g/ml": {
+      "Energy (kJ)": 146,
+      "Energy (kcal)": 34,
+      "Protein (g)": 0.5,
+      "Carbohydrate (g)": 8.7,
+      "of which sugars (g)": 8.7,
+      "Fat (g)": 0.0,
+      "of which saturates (g)": 0.0,
+      " Salt (g)": 0.1
+    },
+
+    "price": 1500,
+    "Storage and Preparation": "Keep refrigerated. Once opened consume within 24 hours. Shake before use",
+
+    "imageCover": "tour-1-cover.jpg",
+    "images": ["tour-1-1.jpg", "tour-1-2.jpg", "tour-1-3.jpg"]
+  },
+
+  {
+    "id": 4,
+    "name": "Green Smoothie",
+    "summary": "Rich and complex, this juice is a treat for beetroot lovers. Fresh organic orange and crisp apple perfectly offset the earthiness and make this cold-pressed, ruby beauty a great source of Vitamin C to fill you with vim and vigour.Vitamin C also assists with the important work of the immune system, as well as contributing to the reduction of tiredness and fatigue.This juice is unpasteurised.",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "Producer": "Tasty Boo is fast becoming an expert in the Uganda on all things juicing. They don’t call us Juiceman for nothing after all. We offer you a range of spectacularly wholesome organic juices and nuts; cold pressed to preserve the best of the top notch ingredients and bottled by in Nakawa.",
+    "Ingredients": "Beetroot (60%)*, Orange (20%)*, Beetroot(20%). While we do everything we can to ensure the information on this page is correct, ingredients, nutritional and dietary information are subject to change. So along with the information on our website, we always recommend that you read each label carefully before enjoying your items",
+    "Nutrition Information per 100g/ml": {
+      "Energy (kJ)": 146,
+      "Energy (kcal)": 34,
+      "Protein (g)": 0.5,
+      "Carbohydrate (g)": 8.7,
+      "of which sugars (g)": 8.7,
+      "Fat (g)": 0.0,
+      "of which saturates (g)": 0.0,
+      " Salt (g)": 0.1
+    },
+
+    "price": 1500,
+    "Storage and Preparation": "Keep refrigerated. Once opened consume within 24 hours. Shake before use",
+    "imageCover": "tour-5-cover.jpg",
+    "images": ["tour-5-1.jpg", "tour-5-2.jpg", "tour-5-3.jpg"]
+  },
+
+  {
+    "id": 5,
+    "name": "Cocktail Smoothie",
+    "summary": "Rich and complex, this juice is a treat for beetroot lovers. Fresh organic orange and crisp apple perfectly offset the earthiness and make this cold-pressed, ruby beauty a great source of Vitamin C to fill you with vim and vigour.Vitamin C also assists with the important work of the immune system, as well as contributing to the reduction of tiredness and fatigue.This juice is unpasteurised.",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "Producer": "Tasty Boo is fast becoming an expert in the Uganda on all things juicing. They don’t call us Juiceman for nothing after all. We offer you a range of spectacularly wholesome organic juices and nuts; cold pressed to preserve the best of the top notch ingredients and bottled by in Nakawa.",
+    "Ingredients": "Beetroot (60%)*, Orange (20%)*, Beetroot(20%). While we do everything we can to ensure the information on this page is correct, ingredients, nutritional and dietary information are subject to change. So along with the information on our website, we always recommend that you read each label carefully before enjoying your items",
+    "Nutrition Information per 100g/ml": {
+      "Energy (kJ)": 146,
+      "Energy (kcal)": 34,
+      "Protein (g)": 0.5,
+      "Carbohydrate (g)": 8.7,
+      "of which sugars (g)": 8.7,
+      "Fat (g)": 0.0,
+      "of which saturates (g)": 0.0,
+      " Salt (g)": 0.1
+    },
+
+    "price": 1500,
+    "Storage and Preparation": "Keep refrigerated. Once opened consume within 24 hours. Shake before use",
+    "imageCover": "tour-6-cover.jpg",
+    "images": ["tour-6-1.jpg", "tour-6-2.jpg", "tour-6-3.jpg"]
+  },
+
+  {
+    "id": 6,
+    "name": "Peanuts",
+    "summary": "Rich and complex, this juice is a treat for beetroot lovers. Fresh organic orange and crisp apple perfectly offset the earthiness and make this cold-pressed, ruby beauty a great source of Vitamin C to fill you with vim and vigour.Vitamin C also assists with the important work of the immune system, as well as contributing to the reduction of tiredness and fatigue.This juice is unpasteurised.",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "Producer": "Tasty Boo is fast becoming an expert in the Uganda on all things juicing. They don’t call us Juiceman for nothing after all. We offer you a range of spectacularly wholesome organic juices and nuts; cold pressed to preserve the best of the top notch ingredients and bottled by in Nakawa.",
+    "Ingredients": "Beetroot (60%)*, Orange (20%)*, Beetroot(20%). While we do everything we can to ensure the information on this page is correct, ingredients, nutritional and dietary information are subject to change. So along with the information on our website, we always recommend that you read each label carefully before enjoying your items",
+    "Nutrition Information per 100g/ml": {
+      "Energy (kJ)": 146,
+      "Energy (kcal)": 34,
+      "Protein (g)": 0.5,
+      "Carbohydrate (g)": 8.7,
+      "of which sugars (g)": 8.7,
+      "Fat (g)": 0.0,
+      "of which saturates (g)": 0.0,
+      " Salt (g)": 0.1
+    },
+
+    "price": 1500,
+    "Storage and Preparation": "Keep refrigerated. Once opened consume within 24 hours. Shake before use",
+    "images": ["tour-7-1.jpg", "tour-7-2.jpg", "tour-7-3.jpg"],
+    "startDates": ["2021-02-12,10:00", "2021-04-14,10:00", "2021-09-01,10:00"]
+  },
+
+  {
+    "id": 7,
+    "name": "Cookies",
+    "summary": "Rich and complex, this juice is a treat for beetroot lovers. Fresh organic orange and crisp apple perfectly offset the earthiness and make this cold-pressed, ruby beauty a great source of Vitamin C to fill you with vim and vigour.Vitamin C also assists with the important work of the immune system, as well as contributing to the reduction of tiredness and fatigue.This juice is unpasteurised.",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "Producer": "Tasty Boo is fast becoming an expert in the Uganda on all things juicing. They don’t call us Juiceman for nothing after all. We offer you a range of spectacularly wholesome organic juices and nuts; cold pressed to preserve the best of the top notch ingredients and bottled by in Nakawa.",
+    "Ingredients": "Beetroot (60%)*, Orange (20%)*, Beetroot(20%). While we do everything we can to ensure the information on this page is correct, ingredients, nutritional and dietary information are subject to change. So along with the information on our website, we always recommend that you read each label carefully before enjoying your items",
+    "Nutrition Information per 100g/ml": {
+      "Energy (kJ)": 146,
+      "Energy (kcal)": 34,
+      "Protein (g)": 0.5,
+      "Carbohydrate (g)": 8.7,
+      "of which sugars (g)": 8.7,
+      "Fat (g)": 0.0,
+      "of which saturates (g)": 0.0,
+      " Salt (g)": 0.1
+    },
+    "price": 1500,
+    "Storage and Preparation": "Keep refrigerated. Once opened consume within 24 hours. Shake before use",
+    "imageCover": "tour-8-cover.jpg",
+    "images": ["tour-8-1.jpg", "tour-8-2.jpg", "tour-8-3.jpg"]
+  },
+
+  {
+    "id": 8,
+    "name": "Ice cream",
+    "summary": "Rich and complex, this juice is a treat for beetroot lovers. Fresh organic orange and crisp apple perfectly offset the earthiness and make this cold-pressed, ruby beauty a great source of Vitamin C to fill you with vim and vigour.Vitamin C also assists with the important work of the immune system, as well as contributing to the reduction of tiredness and fatigue.This juice is unpasteurised.",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "Producer": "Tasty Boo is fast becoming an expert in the Uganda on all things juicing. They don’t call us Juiceman for nothing after all. We offer you a range of spectacularly wholesome organic juices and nuts; cold pressed to preserve the best of the top notch ingredients and bottled by in Nakawa.",
+    "Ingredients": "Beetroot (60%)*, Orange (20%)*, Beetroot(20%). While we do everything we can to ensure the information on this page is correct, ingredients, nutritional and dietary information are subject to change. So along with the information on our website, we always recommend that you read each label carefully before enjoying your items",
+    "Nutrition Information per 100g/ml": {
+      "Energy (kJ)": 146,
+      "Energy (kcal)": 34,
+      "Protein (g)": 0.5,
+      "Carbohydrate (g)": 8.7,
+      "of which sugars (g)": 8.7,
+      "Fat (g)": 0.0,
+      "of which saturates (g)": 0.0,
+      " Salt (g)": 0.1
+    },
+
+    "price": 1500,
+    "Storage and Preparation": "Keep refrigerated. Once opened consume within 24 hours. Shake before use",
+    "imageCover": "tour-9-cover.jpg",
+    "images": ["tour-9-1.jpg", "tour-9-2.jpg", "tour-9-3.jpg"],
+    "startDates": ["2021-12-16,10:00", "2022-01-16,10:00", "2022-12-12,10:00"]
+  }
+]
